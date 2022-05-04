@@ -36,9 +36,7 @@ export default function Education() {
         <p><b>Kumasi Technical University</b></p>
         </div>
         <div className="col-sm-3">
-          <p>
-        
-          </p>
+          <p></p>
         </div>  
         <div className="col-sm-4">
           <p>
